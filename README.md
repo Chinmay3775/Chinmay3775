@@ -9,6 +9,7 @@ C, OOPS using C++, Java beginner
 ## 🚀 About Me
 I'm a student pursing B-tech from 'DKTE Society's
 Textile and Engineering Institute, Ichalkaranji'
+
 I'm explorer and adaptive and try new things 
 
 
