@@ -3,8 +3,8 @@
 - I'm persuing My B-Tech in AI & ML 
 - I'm currently posting programs on OOPs using C++  
 ## 🛠 Skills
--C, OOPS using C++, Java beginner.
--I also do Hackerrank & have Silver star in C++ & C.
+- C, OOPS using C++, Java beginner.
+- I also do Hackerrank & have Silver star in C++ & C.
 
 
 ## 🚀 About Me
