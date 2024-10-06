@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ck3775" target="blank"><img src="https://img.shields.io/twitter/follow/ck3775?logo=twitter&style=for-the-badge" alt="ck3775" /></a> </p>
 <img align= "right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align= "right" alt="coding" width="300" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 - 🔭 I’m currently working on **Website which provides one stop solution for dairy farmers**
 
