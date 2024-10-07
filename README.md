@@ -39,4 +39,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay3775&show_icons=true&locale=en" alt="chinmay3775" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay3775&" alt="chinmay3775" /></p>
-<img src="https://camo.githubusercontent.com/e85398fead3923920f0dd6ecdfe22d5e1b753f2878a25218973f755ca9a26d53/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6173696d2d6b617a69267261646975733d3136267468656d653d726561637426617265613d74727565266f726465723d35" height="300" alt="activity-graph graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay3775&amp;radius=16&amp;theme=react&amp;area=true&amp;order=5" style="max-width: 100%;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asim-kazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay3775&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Chinmay3775&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay3775&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
