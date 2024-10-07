@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay3775" alt="chinmay3775" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ck3775" target="blank"><img src="https://img.shields.io/twitter/follow/ck3775?logo=twitter&style=for-the-badge" alt="ck3775" /></a> </p>
-<img align= "right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align= "right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🔭 I’m currently working on **Website which provides one stop solution for dairy farmers**
 
