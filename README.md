@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay3775&show_icons=true&locale=en" alt="chinmay3775" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay3775&" alt="chinmay3775" /></p>
+<img src="https://camo.githubusercontent.com/e85398fead3923920f0dd6ecdfe22d5e1b753f2878a25218973f755ca9a26d53/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6173696d2d6b617a69267261646975733d3136267468656d653d726561637426617265613d74727565266f726465723d35" height="300" alt="activity-graph graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay3775&amp;radius=16&amp;theme=react&amp;area=true&amp;order=5" style="max-width: 100%;">
