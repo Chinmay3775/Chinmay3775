@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmay Keripale</h1>
 <h3 align="center">I am a passionate AI & ML Engineer with a strong enthusiasm for programming languages such as C, C++, Java, and Python</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykhapare&label=Profile%20views&color=0e75b6&style=flat" alt="ChinmayKeripale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay3775" alt="chinmay3775" /></a> </p>
 
