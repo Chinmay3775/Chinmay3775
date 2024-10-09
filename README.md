@@ -41,5 +41,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay3775&" alt="chinmay3775" /></p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay3775&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div
 
