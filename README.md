@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinmay Keripale</h1>
+<h1 align="center">Hi 👋, I'm Chinmay Chandrashekhar Keripale</h1>
 <h3 align="center">I am a passionate AI & ML Engineer with a strong enthusiasm for programming languages such as C, C++, Java, and Python</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chinmay3775&label=Profile%20views&color=0e75b6&style=flat" alt="ChinmayKeripale" /> </p>
 
