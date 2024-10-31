@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ML projects**
 
-- 📫 How to reach me **keripalechinmay@gmail.com**
+- 📫 How to reach me **keripalechinmay@gmail.com**.
 
 - ⚡ Fun fact **I think I am Funny**
 
