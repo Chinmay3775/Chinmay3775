@@ -30,7 +30,7 @@
 </p>
 <h3 align="left">Repositories:</h3>
 
-- **[AVA](https://github.com/Chinmay3775/AVA)**: Repository focused on advanced AI and ML-related projects.
+- **[JAVA](https://github.com/Chinmay3775/JAVA)**: Repository focused on advanced AI and ML-related projects.
 - **[Python](https://github.com/Chinmay3775/Python)**: Collection of Python scripts and Jupyter notebooks.
 - **[PROBLEM-SOLVING-USING-JAVA](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-JAVA)**: Repository with Java-based problem-solving exercises.
 - **[DSA-USING-JAVA](https://github.com/Chinmay3775/DSA-USING-JAVA)**: Data Structures and Algorithms implemented in Java.
