@@ -28,20 +28,29 @@
 <a href="https://www.hackerrank.com/keripalechinmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keripalechinmay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chinmay3775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmay3775" height="30" width="40" /></a>
 </p>
-<h3 align="left">Repositories:</h3>
+## Repositories
 
-- **[JAVA](https://github.com/Chinmay3775/JAVA)**: Repository focused on advanced AI and ML-related projects.
-- **[Python](https://github.com/Chinmay3775/Python)**: Collection of Python scripts and Jupyter notebooks.
-- **[PROBLEM-SOLVING-USING-JAVA](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-JAVA)**: Repository with Java-based problem-solving exercises.
-- **[DSA-USING-JAVA](https://github.com/Chinmay3775/DSA-USING-JAVA)**: Data Structures and Algorithms implemented in Java.
-- **[Simple-registration-page](https://github.com/Chinmay3775/Simple-registration-page)**: HTML-based registration form example.
-- **[Simple-Login-page](https://github.com/Chinmay3775/Simple-Login-page)**: Basic HTML login page connected to a local database.
-- **[Chinmay3775](https://github.com/Chinmay3775/Chinmay3775)**: My personal GitHub profile and related information.
-- **[Simple-Calculator-using-HTML](https://github.com/Chinmay3775/Simple-Calculator-using-HTML)**: HTML and JavaScript-based calculator project.
-- **[ML-coding](https://github.com/Chinmay3775/ML-coding)**: Machine learning code snippets and projects.
-- **[PROBLEM-SOLVING-USING-PYTHON](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-PYTHON)**: Python-based problem-solving exercises.
-- **[Mini-Project](https://github.com/Chinmay3775/Mini-Project)**: Miscellaneous small projects.
-- **[CPP](https://github.com/Chinmay3775/CPP)**: C++ programs for various learning and problem-solving tasks.
+### Java
+- **[Public](https://github.com/Chinmay3775/JAVA)** - A collection of Java programs and concepts. *(Updated: 1 minute ago)*
+- **[PROBLEM-SOLVING-USING-JAVA](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-JAVA)** - Solutions to various problems using Java. *(Updated: 52 minutes ago)*
+- **[DSA-USING-JAVA](https://github.com/Chinmay3775/DSA-USING-JAVA)** - Data Structures and Algorithms implemented in Java. *(Updated: 2 days ago)*
+
+### Python
+- **[Python](https://github.com/Chinmay3775/Python)** - A collection of Python scripts and Jupyter Notebooks. *(Updated: 24 minutes ago)*
+- **[ML-coding](https://github.com/Chinmay3775/ML-coding)** - Machine learning projects and experiments. *(Updated: 3 weeks ago)*
+- **[PROBLEM-SOLVING-USING-PYTHON](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-PYTHON)** - Solutions to various problems using Python. *(Updated: last month)*
+
+### HTML
+- **[Simple-registration-page](https://github.com/Chinmay3775/Simple-registration-page)** - A simple HTML page for user registration. *(Updated: 5 days ago)*
+- **[Simple-Login-page](https://github.com/Chinmay3775/Simple-Login-page)** - A simple login page built with HTML. *(Updated: 5 days ago)*
+- **[Simple-Calculator-using-HTML](https://github.com/Chinmay3775/Simple-Calculator-using-HTML)** - A basic calculator application built using HTML. *(Updated: 2 weeks ago)*
+
+### C++
+- **[CPP](https://github.com/Chinmay3775/CPP)** - A collection of C++ projects and programs. *(Updated: on May 8)*
+
+### Mini-Projects
+- **[Mini-Project](https://github.com/Chinmay3775/Mini-Project)** - Various mini-projects showcasing different skills and technologies. *(Updated: on Aug 12)*
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
