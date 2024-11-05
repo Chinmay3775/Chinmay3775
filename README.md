@@ -31,7 +31,7 @@
 ## Repositories
 
 ### Java
-- **[Public](https://github.com/Chinmay3775/JAVA)** - A collection of Java programs and concepts. *(Updated: 1 minute ago)*
+- **[BASIC-JAVA](https://github.com/Chinmay3775/JAVA)** - A collection of Java programs and concepts. *(Updated: 1 minute ago)*
 - **[PROBLEM-SOLVING-USING-JAVA](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-JAVA)** - Solutions to various problems using Java. *(Updated: 52 minutes ago)*
 - **[DSA-USING-JAVA](https://github.com/Chinmay3775/DSA-USING-JAVA)** - Data Structures and Algorithms implemented in Java. *(Updated: 2 days ago)*
 
