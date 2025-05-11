@@ -1,68 +1,134 @@
-<h1 align="center">Hi 👋, I'm Chinmay Chandrashekhar Keripale</h1>
-<h3 align="center">I am a passionate AI & ML Engineer with a strong enthusiasm for programming languages such as C, C++, Java, and Python</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chinmay3775&label=Profile%20views&color=0e75b6&style=flat" alt="ChinmayKeripale" /> </p>
+# <div align="center">👨‍💻 Chinmay Chandrashekhar Keripale</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay3775" alt="chinmay3775" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ck3775" target="blank"><img src="https://img.shields.io/twitter/follow/ck3775?logo=twitter&style=for-the-badge" alt="ck3775" /></a> </p>
-<img align= "right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-- 🔭 I’m currently working on **Website which provides one stop solution for dairy farmers**
-
-- 🌱 I’m currently learning **Advanced JAVA and Machine Learning**
-
-- 👯 I’m looking to collaborate on **ML projects**
-
-- 📫 How to reach me **keripalechinmay@gmail.com**.
-
-- ⚡ Fun fact **I think I am Funny**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ck3775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ck3775" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chinmay keripale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay keripale" height="30" width="40" /></a>
-<a href="https://fb.com/chinmay keripale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinmay keripale" height="30" width="40" /></a>
-<a href="https://instagram.com/chinmay_keripale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmay_keripale" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chinmay@3775" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chinmay@3775" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keripalechinmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keripalechinmay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chinmay3775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmay3775" height="30" width="40" /></a>
-</p>
-<h3 align="left">Repositories:</h3>
-
-### Java
-- **[BASIC-JAVA](https://github.com/Chinmay3775/JAVA-)** - A collection of Java programs and concepts.
-- **[PROBLEM-SOLVING-USING-JAVA](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-JAVA)** - Solutions to various problems using Java.
-- **[DSA-USING-JAVA](https://github.com/Chinmay3775/DSA-USING-JAVA)** - Data Structures and Algorithms implemented in Java.
-
-### Python
-- **[Python](https://github.com/Chinmay3775/Python)** - A collection of Python scripts and Jupyter Notebooks.
-- **[ML-coding](https://github.com/Chinmay3775/ML-coding)** - Machine learning projects and experiments.
-- **[PROBLEM-SOLVING-USING-PYTHON](https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-PYTHON)** - Solutions to various problems using Python.
-
-### HTML
-- **[Simple-registration-page](https://github.com/Chinmay3775/Simple-registration-page)** - A simple HTML page for user registration. 
-- **[Simple-Login-page](https://github.com/Chinmay3775/Simple-Login-page)** - A simple login page built with HTML.
-- **[Simple-Calculator-using-HTML](https://github.com/Chinmay3775/Simple-Calculator-using-HTML)** - A basic calculator application built using HTML.
-
-### C++
-- **[CPP](https://github.com/Chinmay3775/CPP)** - A collection of C++ projects and programs.
-
-### Mini-Projects
-- **[Mini-Project](https://github.com/Chinmay3775/Mini-Project)** - Various mini-projects showcasing different skills and technologies. 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
- <img align= "right" alt="coding" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmay3775&show_icons=true&locale=en&layout=compact" alt="chinmay3775" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay3775&show_icons=true&locale=en" alt="chinmay3775" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay3775&" alt="chinmay3775" /></p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay3775&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E96F7&center=true&vCenter=true&random=false&width=435&lines=AI+%26+ML+Engineer;Software+Developer;Problem+Solver;Quick+Learner" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://twitter.com/ck3775" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ck3775?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/chinmay-keripale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:keripalechinmay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+
+## 💫 About Me
+
+- 🔭 Currently building **a one-stop solution website for dairy farmers**
+- 🌱 Expanding knowledge in **Advanced Java and Machine Learning**
+- 👯 Looking to collaborate on **innovative ML projects**
+- 💬 Ask me about **Java, Python, ML algorithms, and programming challenges**
+- ⚡ Fun fact: **I approach problems with a blend of creativity and analytical thinking**
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,tensorflow,html,css,js,kotlin,php,androidstudio" />
+</p>
+
+<details>
+  <summary><b>🧰 Libraries & Frameworks</b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  </p>
+</details>
+
+## 📂 Project Categories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Java Projects</h3>
+      <div align="center">
+        <a href="https://github.com/Chinmay3775/JAVA-" target="_blank">🔸 BASIC-JAVA</a><br>
+        <a href="https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-JAVA" target="_blank">🔸 PROBLEM-SOLVING-USING-JAVA</a><br>
+        <a href="https://github.com/Chinmay3775/DSA-USING-JAVA" target="_blank">🔸 DSA-USING-JAVA</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Python Projects</h3>
+      <div align="center">
+        <a href="https://github.com/Chinmay3775/Python" target="_blank">🔸 Python Collection</a><br>
+        <a href="https://github.com/Chinmay3775/ML-coding" target="_blank">🔸 ML-coding</a><br>
+        <a href="https://github.com/Chinmay3775/PROBLEM-SOLVING-USING-PYTHON" target="_blank">🔸 PROBLEM-SOLVING-USING-PYTHON</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Web Development</h3>
+      <div align="center">
+        <a href="https://github.com/Chinmay3775/Simple-registration-page" target="_blank">🔸 Simple-registration-page</a><br>
+        <a href="https://github.com/Chinmay3775/Simple-Login-page" target="_blank">🔸 Simple-Login-page</a><br>
+        <a href="https://github.com/Chinmay3775/Simple-Calculator-using-HTML" target="_blank">🔸 Simple-Calculator-using-HTML</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Other Projects</h3>
+      <div align="center">
+        <a href="https://github.com/Chinmay3775/CPP" target="_blank">🔸 C++ Collection</a><br>
+        <a href="https://github.com/Chinmay3775/Mini-Project" target="_blank">🔸 Mini-Projects</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay3775&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmay3775&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay3775&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Languages" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chinmay3775&theme=nord&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay3775&theme=react-dark&hide_border=true" width="98%" alt="Activity Graph" />
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/ck3775" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/chinmay-keripale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/chinmay.keripale" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/chinmay_keripale" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
+<div align="center">
+  <a href="https://www.hackerrank.com/keripalechinmay" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.leetcode.com/chinmay3775" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/chinmay3775" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chinmay3775&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="200" alt="Coding GIF" />
+</div>
+
+<div align="center">
+  <strong>Thanks for visiting my profile! Let's connect and build something amazing together.</strong>
+</div>
